@@ -1,0 +1,19 @@
+ body {
+  background: rgb(94, 247, 255);
+}
+nav{
+    text-align: right;
+    font-style: normal;
+    background-color: bisque;
+}
+h1 {
+  color: blueviolet;
+  font-style: italic;
+}
+main {
+    background-color: rgb(202, 167, 194);
+}
+footer {
+  background: gray;
+    color: white;
+ }
